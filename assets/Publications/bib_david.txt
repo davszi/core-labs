@@ -32,3 +32,11 @@ publisher = {IEEE Computer Society},
 address = {Los Alamitos, CA, USA},
 month =Nov}
 
+@inproceedings{nedungadi2019design,
+  title={Design of an active-reliable grasping mechanism for autonomous unmanned aerial vehicles},
+  author={Nedungadi, Ashwin Suresh and Saska, Martin},
+  booktitle={International Conference on Modelling and Simulation for Autonomous Systems},
+  pages={162--179},
+  year={2019},
+  organization={Springer}
+}
