@@ -54,6 +54,3 @@ Data files in `src/data/` can be modified to update content:
 - `projects.js`: Research projects
 - `publications.js`: Publications list
 - `demonstrations.js`: Video links and metadata
-
-<!-- Trigger deployment -->
-<!-- Trigger deployment -->
